@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" fill="#F6F2EA"/>
+  <!-- Hanko red square stamp with subtle rounded corners -->
+  <rect x="76" y="76" width="360" height="360" rx="28" fill="#B8372B"/>
+  <rect x="92" y="92" width="328" height="328" rx="20" fill="none" stroke="#F6F2EA" stroke-width="6" opacity="0.4"/>
+  <!-- Japanese Kanji '学' (Study/Learn) in warm washi white -->
+  <text x="256" y="325" font-family="'Shippori Mincho', 'Noto Serif CJK JP', 'Songti SC', 'Hiragino Mincho ProN', 'Yu Mincho', serif" font-weight="bold" font-size="220" text-anchor="middle" fill="#F6F2EA">学</text>
+</svg>
+
